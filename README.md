@@ -47,3 +47,11 @@ Here is a list of some of the properties used:
 1. `display: grid`
 2. `width: 100vh`
 3. *Actually, not sure if the above one was used*...**BUT THAT'S OK!**
+
+
+# Fullscreen version
+![Fullscreen](laptop-example.jpg)
+
+
+# Mobile Version
+![Mobile Example](mobile.jpg)
