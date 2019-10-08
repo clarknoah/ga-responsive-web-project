@@ -31,7 +31,7 @@ i {
 }
 ```
 
-**WOW LOOK AT THAT CSS** That's some amazing `code`!
+**WOW LOOK AT THAT CSS** That's some amazing `code!`
 
 # Installation Instructions
 
@@ -41,4 +41,9 @@ i {
 
 Enjoy!
 
-#
+# CSS Properties Used
+Here is a list of some of the properties used:
+
+1. `display: grid`
+2. `width: 100vh`
+3. *Actually, not sure if the above one was used*...**BUT THAT'S OK!**
