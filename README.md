@@ -54,4 +54,4 @@ Here is a list of some of the properties used:
 
 
 # Mobile Version
-![Mobile Example](mobile.jpg)
+![Mobile Example](mobile.png)
